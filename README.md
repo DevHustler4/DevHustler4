@@ -28,7 +28,7 @@ Feel free to explore my repositories to see more of my work!
 
 I'm always open to collaboration and new opportunities. Whether you have a project idea, want to discuss web development trends, or just want to say hi, feel free to reach out to me:
 
-- Email: [Your Email Address](devhustler4@gmai.com:.com)
+- Email: [devhustler4@gmail.com](mailto:devhustler4@gmail.com)
 <!---
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
 - Twitter: [Your Twitter Profile](https://twitter.com/yourhandle)
